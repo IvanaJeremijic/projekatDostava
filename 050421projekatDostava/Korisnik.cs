@@ -8,5 +8,6 @@ namespace _050421projekatDostava
 {
     class Korisnik
     {
+
     }
 }
