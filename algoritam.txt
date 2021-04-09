@@ -1,0 +1,17 @@
+-pokrenes app
+-uneses podatke [ime, prezime, email, broj telefona, drzava, grad, adresa]
+-preporucene kategorije, restorani
+-odabir kuhinja(kategorije) [rostilj, italijanska kuhinja, burgeri, pica,
+				kineska kuhinja, americka kuhinja, grcka kuhinja,
+				azijska kuhinja, kuvana jela, markrobioticka kuhinja,
+				fit hrana, latinoamericka kuhinja, meksicka kuhinja,
+				napici(kafe, piva, vina), sladoled, pecenje,
+				posna i vegeterijanska hrana, peciva, palacinke,
+				dorucak, srpska kuhinja, internacionalna kuhinja,
+				paste, mediteranska kuhinja, riba i plodovi mora,
+				sendvici, ruska kuhinja, poslastice]
+-restorani
+-(kategorije u okviru restorana)
+-jela i napici
+-narudzbina[potvrda adrese, nacin placanja, spisak jela i napitaka,
+			dodatni komentari, no-contact delivery da\ne, vreme dostave, racun]
